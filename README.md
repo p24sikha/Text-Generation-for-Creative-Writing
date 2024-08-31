@@ -41,20 +41,9 @@ This project demonstrates the potential of generative AI in the creative writing
 
 ## Note
 
-A PowerPoint presentation summarizing the project and its outcomes is included in the attached zip file. Please refer to the `presentation.pptx` file for a detailed walkthrough of the project.
+A PowerPoint presentation summarizing the project and its outcomes is included in the attached zip file. Please refer to the `Test_Generation_Project.pptx` file for a detailed walkthrough of the project.
 
 
 
-
-
-
-
-
-
-
-
-Next steps?
-
-Add requirements?
 
 
