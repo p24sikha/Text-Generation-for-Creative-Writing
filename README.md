@@ -35,4 +35,26 @@ The dataset includes a wide range of literary forms:
 ### Sentiment Analysis
 ![Dashboard Screenshot](img2.png)
 
+## Conclusion
+
+This project demonstrates the potential of generative AI in the creative writing process. By carefully preprocessing a diverse dataset of literature and implementing advanced text generation techniques, the project successfully produces coherent, diverse, and creative text outputs. The results highlight the ability of AI to assist authors in generating new content, offering innovative tools for the publishing industry.
+
+## Note
+
+A PowerPoint presentation summarizing the project and its outcomes is included in the attached zip file. Please refer to the `presentation.pptx` file for a detailed walkthrough of the project.
+
+
+
+
+
+
+
+
+
+
+
+Next steps?
+
+Add requirements?
+
 
